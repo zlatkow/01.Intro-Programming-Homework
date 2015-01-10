@@ -1,0 +1,5 @@
+D:\Did\Telerik courses\01.Intro-Programming-Homework\10. ReformatedCode\bin\Debug\_10.ReformatedCode.exe.config
+D:\Did\Telerik courses\01.Intro-Programming-Homework\10. ReformatedCode\bin\Debug\_10.ReformatedCode.exe
+D:\Did\Telerik courses\01.Intro-Programming-Homework\10. ReformatedCode\bin\Debug\_10.ReformatedCode.pdb
+D:\Did\Telerik courses\01.Intro-Programming-Homework\10. ReformatedCode\obj\Debug\_10.ReformatedCode.exe
+D:\Did\Telerik courses\01.Intro-Programming-Homework\10. ReformatedCode\obj\Debug\_10.ReformatedCode.pdb

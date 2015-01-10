@@ -1,0 +1,5 @@
+D:\Did\Telerik courses\01.Intro-Programming-Homework\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.exe.config
+D:\Did\Telerik courses\01.Intro-Programming-Homework\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.exe
+D:\Did\Telerik courses\01.Intro-Programming-Homework\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.pdb
+D:\Did\Telerik courses\01.Intro-Programming-Homework\16. PrintLongSequence\obj\Debug\_16.PrintLongSequence.exe
+D:\Did\Telerik courses\01.Intro-Programming-Homework\16. PrintLongSequence\obj\Debug\_16.PrintLongSequence.pdb

@@ -1,0 +1,5 @@
+D:\Did\Telerik courses\01.Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.exe.config
+D:\Did\Telerik courses\01.Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.exe
+D:\Did\Telerik courses\01.Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.pdb
+D:\Did\Telerik courses\01.Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.exe
+D:\Did\Telerik courses\01.Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.pdb

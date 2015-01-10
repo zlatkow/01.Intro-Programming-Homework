@@ -1,0 +1,9 @@
+D:\Did\Telerik courses\01.Intro-Programming-Homework\04. HelloCSharp\bin\Debug\_04.HelloCSharp.exe.config
+D:\Did\Telerik courses\01.Intro-Programming-Homework\04. HelloCSharp\bin\Debug\_04.HelloCSharp.exe
+D:\Did\Telerik courses\01.Intro-Programming-Homework\04. HelloCSharp\bin\Debug\_04.HelloCSharp.pdb
+D:\Did\Telerik courses\01.Intro-Programming-Homework\04. HelloCSharp\obj\Debug\04. HelloCSharp.csprojResolveAssemblyReference.cache
+D:\Did\Telerik courses\01.Intro-Programming-Homework\04. HelloCSharp\obj\Debug\_04.HelloCSharp.exe
+D:\Did\Telerik courses\01.Intro-Programming-Homework\04. HelloCSharp\obj\Debug\_04.HelloCSharp.pdb
+H:\Users\Zlatkow\Desktop\New folder\04. HelloCSharp\bin\Debug\_04.HelloCSharp.exe.config
+H:\Users\Zlatkow\Desktop\New folder\04. HelloCSharp\obj\Debug\_04.HelloCSharp.exe
+H:\Users\Zlatkow\Desktop\New folder\04. HelloCSharp\obj\Debug\_04.HelloCSharp.pdb

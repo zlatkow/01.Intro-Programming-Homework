@@ -1,0 +1,5 @@
+D:\Did\Telerik courses\01.Intro-Programming-Homework\07. PrintFirstLastName\bin\Debug\_07.PrintFirstLastName.exe.config
+D:\Did\Telerik courses\01.Intro-Programming-Homework\07. PrintFirstLastName\bin\Debug\_07.PrintFirstLastName.exe
+D:\Did\Telerik courses\01.Intro-Programming-Homework\07. PrintFirstLastName\bin\Debug\_07.PrintFirstLastName.pdb
+D:\Did\Telerik courses\01.Intro-Programming-Homework\07. PrintFirstLastName\obj\Debug\_07.PrintFirstLastName.exe
+D:\Did\Telerik courses\01.Intro-Programming-Homework\07. PrintFirstLastName\obj\Debug\_07.PrintFirstLastName.pdb
