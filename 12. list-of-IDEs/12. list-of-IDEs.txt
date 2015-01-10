@@ -1,29 +1,54 @@
 Problem 12. Development Environments
 ---------------------------------------------------------------------------------------------------------------------------
-Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments (IDEs) like Visual Studio.
-Write in a text file called ìlist-of-IDEs.txtî at least five IDEs along with 2-3 sentences about each of them. Use English.
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments (IDEs) like 
+Visual Studio.Write in a text file called ‚Äúlist-of-IDEs.txt‚Äù at least five IDEs along with 2-3 sentences about each of them. 
+Use English.
 
 
 1. Microsoft Visual Studio
 
-  Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.Visual Studio supports different programming languages and allows the code editor and debugger to support (to varying degrees) nearly any programming language, provided a language-specific service exists. Built-in languages include C, C++ and C++/CLI (via Visual C++), VB.NET (via Visual Basic .NET), C# (via Visual C#), and F# (as of Visual Studio 2010). Support for other languages such as M, Python, and Ruby among others is available via language services installed separately. It also supports XML/XSLT, HTML/XHTML, JavaScript and CSS.
+  Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer 
+  programs for Microsoft Windows, as well as web sites, web applications and web services. Visual Studio uses Microsoft 
+  software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and 
+  Microsoft Silverlight. It can produce both native code and managed code.Visual Studio supports different programming 
+  languages and allows the code editor and debugger to support (to varying degrees) nearly any programming language, provided
+  a language-specific service exists. Built-in languages include C, C++ and C++/CLI (via Visual C++), VB.NET (via Visual Basic
+  .NET), C# (via Visual C#), and F# (as of Visual Studio 2010). Support for other languages such as M, Python, and Ruby among
+  others is available via language services installed separately. It also supports XML/XSLT, HTML/XHTML, JavaScript and CSS.
 
 
 2. Eclipse
 
-  Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. It can also be used to develop packages for the software Mathematica. Development environments include the Eclipse Java development tools (JDT) for Java and Scala, Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+  Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible plug-in system for 
+  customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-
+  ins, Eclipse may also be used to develop applications in other programming languages: Ada, ABAP, C, C++, COBOL, Fortran, 
+  Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure,
+  Groovy, Scheme, and Erlang. It can also be used to develop packages for the software Mathematica. Development environments 
+  include the Eclipse Java development tools (JDT) for Java and Scala, Eclipse CDT for C/C++ and Eclipse PDT for PHP, among 
+  others.
 
 
 3. Netbeans 
 
-  NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.It is also an application platform framework for Java desktop applications and others.The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.The NetBeans Platform allows applications to be developed from a set of modular software components called modules. Applications based on the NetBeans Platform (including the NetBeans IDE itself) can be extended by third party developers.
+  NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also with other languages,
+  in particular PHP, C/C++, and HTML5.It is also an application platform framework for Java desktop applications and others.
+  The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible
+  JVM.The NetBeans Platform allows applications to be developed from a set of modular software components called modules. 
+  Applications based on the NetBeans Platform (including the NetBeans IDE itself) can be extended by third party developers.
 
 
 4. Mono
 
-  Mono is a free and open source project led by Xamarin to create an Ecma standard-compliant, .NET Framework-compatible set of tools including, among others, a C# compiler and a Common Language Runtime.The stated purpose of Mono is not only to be able to run Microsoft .NET applications cross-platform, but also to bring better development tools to Linux developers. Mono can be run on many software systems including Android, most Linux distributions, BSD, OS X, Windows, Solaris, and even some game consoles such as PlayStation 3, Wii, and Xbox 360.It supports Boo, C, C++, C#, CIL, D, F#, Java, Oxygene, Python, Vala, and Visual Basic.NET.
+  Mono is a free and open source project led by Xamarin to create an Ecma standard-compliant, .NET Framework-compatible set of
+  tools including, among others, a C# compiler and a Common Language Runtime.The stated purpose of Mono is not only to be able
+  to run Microsoft .NET applications cross-platform, but also to bring better development tools to Linux developers. Mono can 
+  be run on many software systems including Android, most Linux distributions, BSD, OS X, Windows, Solaris, and even some game
+  consoles such as PlayStation 3, Wii, and Xbox 360.It supports Boo, C, C++, C#, CIL, D, F#, Java, Oxygene, Python, Vala, and
+  Visual Basic.NET.
 
 
 5. Code::Blocks
 
-  Code::Blocks is a free C, C++ and Fortran IDE built to meet the most demanding needs of its users.It is designed to be very extensible and fully configurable, supporting different platforms.Built around a plugin framework, Code::Blocks can be extended with plugins.Any kind of functionality can be added by installing/coding a plugin.
+  Code::Blocks is a free C, C++ and Fortran IDE built to meet the most demanding needs of its users.It is designed to be very
+  extensible and fully configurable, supporting different platforms.Built around a plugin framework, Code::Blocks can be 
+  extended with plugins.Any kind of functionality can be added by installing/coding a plugin.
